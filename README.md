@@ -12,7 +12,7 @@ Este conjunto de datos se obtuvo extrayendo datos de hltv.org Datos que a suvez 
 
 # Columnas
 
-Este DataSet contiene un total de 21 Columnas las cuales se describen de la siguiente forma:
+Cada ronda incluye información sobre el mapa, número de ronda, número de rondas ganadas CT y T, el nombre de los equipos de cada lado, el lado ganador y perdedor y el equipo, tipo de compra y costo.
 
 ### Descripción de las columnas del dataset
 
