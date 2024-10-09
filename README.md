@@ -1,7 +1,7 @@
 ## DatasetKaggle
 
 <div align="center">
-  <img src="https://media.es.wired.com/photos/66c4d1d1f37d94352f34926f/16:9/w_1920,c_limit/GettyImages-2112446687.jpg" alt="Texto alternativo" width="100%" height="90"/>
+  <img src="https://media.es.wired.com/photos/66c4d1d1f37d94352f34926f/16:9/w_1920,c_limit/GettyImages-2112446687.jpg" alt="Texto alternativo" width="100%" height="90%"/>
 </div>
 
 # Sobre este Dataset
