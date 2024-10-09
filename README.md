@@ -36,6 +36,31 @@ Cada entrada en el conjunto de datos de videojuegos incluye el ranking de ventas
 4. **Evaluar el Impacto del Editor en el Éxito Comercial**: Examinar cómo el editor afecta las ventas y sus estrategias de marketing.
 5. **Estudiar la Distribución de Ventas Globales**: Analizar ventas en diferentes regiones para entender preferencias de consumidores.
 
-# Consideraciones Finales
+# Variables Elegibles
 
-Este análisis proporcionará información valiosa sobre la evolución del mercado de videojuegos y las preferencias de los jugadores, ofreciendo una base sólida para futuras decisiones en el desarrollo y marketing de videojuegos.
+1. **Identificar Tendencias de Ventas por Año**
+   - **Año**: Para observar cambios en las ventas a lo largo del tiempo.
+   - **Global_Sales**: Para medir las ventas totales y analizar tendencias.
+
+2. **Comparar el Rendimiento de Plataformas**
+   - **Plataforma**: Para identificar diferentes sistemas y su rendimiento.
+   - **Global_Sales**: Para medir las ventas totales de cada plataforma.
+
+
+3. **Analizar la Relación entre Género y Ventas**
+   - **Género**: Para categorizar los videojuegos según su tipo.
+   - **Global_Sales**: Para medir el éxito comercial de cada género.
+
+
+4. **Evaluar el Impacto del Editor en el Éxito Comercial**
+   - **Editor**: Para identificar la compañía que publica cada juego.
+   - **Global_Sales**: Para medir el éxito comercial asociado a cada editor.
+
+
+5. **Estudiar la Distribución de Ventas Globales**
+   - **Global_Sales**: Para observar las ventas totales de cada videojuego.
+   - **NA_Sales**: Para analizar ventas en América del Norte.
+   - **EU_Sales**: Para analizar ventas en Europa.
+   - **JP_Sales**: Para analizar ventas en Japón.
+
+
