@@ -145,4 +145,6 @@ Cada entrada en el conjunto de datos de videojuegos incluye el ranking de ventas
    - **EU_Sales**: Para analizar ventas en Europa.
    - **JP_Sales**: Para analizar ventas en Japón.
 
+# Referencias
 
+https://www.kaggle.com/code/snanilim/video-games-sales-analysis-and-visualization/notebook#notebook-container
