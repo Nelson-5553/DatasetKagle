@@ -30,17 +30,17 @@ Cada entrada en el conjunto de datos de videojuegos incluye el ranking de ventas
 
 <table>
   <tr>
-  <td>Ranking</td>
-  <td>Nombre</td>
-  <td>Plataforma</td>
-  <td>Año</td>
-  <td>Género</td>
-  <td>Editor</td>
-  <td>NA_Sales</td>
-  <td>EU_Sales</td>
-  <td>JP_Sales</td>
-  <td>Other_Sales</td>
-  <td>Global_Sales</td>
+  <th>Ranking</th>
+  <th>Nombre</th>
+  <th>Plataforma</th>
+  <th>Año</th>
+  <th>Género</th>
+  <th>Editor</th>
+  <th>NA_Sales</th>
+  <th>EU_Sales</th>
+  <th>JP_Sales</th>
+  <th>Other_Sales</th>
+  <th>Global_Sales</th>
 </tr>
 
 </table>
