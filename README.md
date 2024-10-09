@@ -28,22 +28,87 @@ Cada entrada en el conjunto de datos de videojuegos incluye el ranking de ventas
 10. **Other_Sales**: Ventas en el resto del mundo (millones).
 11. **Global_Sales**: Ventas totales a nivel mundial.
 
-<table>
-  <tr>
-  <th>Ranking</th>
-  <th>Nombre</th>
-  <th>Plataforma</th>
-  <th>Año</th>
-  <th>Género</th>
-  <th>Editor</th>
-  <th>NA_Sales</th>
-  <th>EU_Sales</th>
-  <th>JP_Sales</th>
-  <th>Other_Sales</th>
-  <th>Global_Sales</th>
-</tr>
+#Valores de Muestra
 
+<table>
+    <thead>
+        <tr>
+            <th>Ranking</th>
+            <th>Nombre</th>
+            <th>Plataforma</th>
+            <th>Año</th>
+            <th>Género</th>
+            <th>Editor</th>
+            <th>NA_Sales (millones)</th>
+            <th>EU_Sales (millones)</th>
+            <th>JP_Sales (millones)</th>
+            <th>Other_Sales (millones)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Deportes de Wii</td>
+            <td>Wii</td>
+            <td>2006</td>
+            <td>Deportes</td>
+            <td>Nintendo</td>
+            <td>41.49</td>
+            <td>29.02</td>
+            <td>3.77</td>
+            <td>8.46</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Super Mario Bros.</td>
+            <td>NES</td>
+            <td>1985</td>
+            <td>Plataforma</td>
+            <td>Nintendo</td>
+            <td>29.08</td>
+            <td>3.58</td>
+            <td>6.81</td>
+            <td>0.77</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Mario Kart Wii</td>
+            <td>Wii</td>
+            <td>2008</td>
+            <td>Carreras</td>
+            <td>Nintendo</td>
+            <td>15.85</td>
+            <td>12.88</td>
+            <td>3.79</td>
+            <td>3.31</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Complejo deportivo Wii</td>
+            <td>Wii</td>
+            <td>2009</td>
+            <td>Deportes</td>
+            <td>Nintendo</td>
+            <td>15.75</td>
+            <td>11.01</td>
+            <td>3.28</td>
+            <td>2.96</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Pokémon Rojo/Pokémon Azul</td>
+            <td>ES</td>
+            <td>1996</td>
+            <td>Juego de rol</td>
+            <td>Nintendo</td>
+            <td>11.27</td>
+            <td>8.89</td>
+            <td>10.22</td>
+            <td>1.00</td>
+        </tr>
+    </tbody>
 </table>
+
 
 # Objetivos del Análisis del Dataset
 
