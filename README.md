@@ -6,11 +6,9 @@
 
 # Sobre este Dataset
 
-Este conjunto de datos ofrece una recopilación exhaustiva de información sobre videojuegos que han vendido más de 100,000 copias en todo el mundo. Es un recurso valioso para aquellos interesados en explorar las dinámicas de la industria del videojuego, proporcionando un marco para el análisis de tendencias, el rendimiento comercial y las preferencias del consumidor a través de diversas métricas.
+Este conjunto de datos ofrece una recopilación exhaustiva de información sobre videojuegos que han vendido más de 100,000 copias en todo el mundo. La industria de los videojuegos ha experimentado un crecimiento explosivo en las últimas décadas, convirtiéndose en un componente clave del entretenimiento global. Este dataset proporciona un marco para el análisis de tendencias, el rendimiento comercial y las preferencias del consumidor a través de diversas métricas.
 
-Este conjunto de datos no solo es fundamental para el análisis cuantitativo, sino que también permite realizar estudios más profundos sobre la evolución del mercado, las preferencias de los jugadores y la influencia de factores como el año de lanzamiento, la plataforma y el género en el rendimiento comercial de los videojuegos. Con su rica variedad de información, se convierte en una herramienta esencial para investigadores, desarrolladores, analistas y entusiastas del mundo de los videojuegos.
-
-Este conjunto de datos se obtuvo extrayendo datos de hltv.org Datos que a suvez fueron compartidos por el usuario [Nilim en Kaggle](https://www.kaggle.com/code/snanilim/video-games-sales-analysis-and-visualization/notebook).
+Los datos se obtuvieron extrayendo información de hltv.org, y fueron compartidos por el usuario [Nilim en Kaggle](https://www.kaggle.com/code/snanilim/video-games-sales-analysis-and-visualization/notebook).
 
 # Columnas
 
@@ -18,44 +16,26 @@ Cada entrada en el conjunto de datos de videojuegos incluye el ranking de ventas
 
 ### Descripción de las columnas del dataset
 
-1. **Ranking**:
-    -Indica la posición del videojuego en la lista según sus ventas totales, permitiendo identificar cuáles son los más vendidos.
+1. **Ranking**: Posición del videojuego según sus ventas totales.
+2. **Nombre**: Título del videojuego.
+3. **Plataforma**: Sistema en el que se lanzó el juego (PC, PS4, Xbox, etc.).
+4. **Año**: Año de lanzamiento del juego.
+5. **Género**: Categoría del videojuego (acción, aventura, RPG, etc.).
+6. **Editor**: Compañía que publicó el videojuego.
+7. **NA_Sales**: Ventas en América del Norte (millones).
+8. **EU_Sales**: Ventas en Europa (millones).
+9. **JP_Sales**: Ventas en Japón (millones).
+10. **Other_Sales**: Ventas en el resto del mundo (millones).
+11. **Global_Sales**: Ventas totales a nivel mundial.
 
-2. **Nombre**:
-    -El título del videojuego, esencial para su identificación y referencia.
+# Objetivos del Análisis del Dataset
 
-3. **Plataforma**: 
-    -La plataforma en la que se lanzó el juego (por ejemplo, PC, PS4, Xbox, etc.), útil para comparar el rendimiento entre diferentes sistemas.
+1. **Identificar Tendencias de Ventas por Año**: Analizar cómo han cambiado las ventas de videojuegos a lo largo de los años.
+2. **Comparar el Rendimiento de Plataformas**: Evaluar cuál plataforma ha tenido el mejor rendimiento en términos de ventas globales.
+3. **Analizar la Relación entre Género y Ventas**: Investigar qué géneros son más populares y cómo varían en diferentes regiones.
+4. **Evaluar el Impacto del Editor en el Éxito Comercial**: Examinar cómo el editor afecta las ventas y sus estrategias de marketing.
+5. **Estudiar la Distribución de Ventas Globales**: Analizar ventas en diferentes regiones para entender preferencias de consumidores.
 
-4. **Año**: 
-    -El año en que se lanzó el juego, lo que permite analizar tendencias de ventas a lo largo del tiempo.
+# Consideraciones Finales
 
-5. **Género**: 
-    -La categoría del videojuego (como acción, aventura, RPG, deportes, etc.), facilitando estudios sobre la popularidad de diferentes géneros.
-
-6. **Editor**: 
-    -La compañía que publicó el videojuego, ofreciendo información sobre el impacto de diferentes editores en el éxito comercial.
-
-7. **NA_Sales**: 
-    -Ventas del videojuego en América del Norte, expresadas en millones de copias. Proporciona datos sobre el rendimiento en este importante mercado.
-
-8. **EU_Sales**: 
-    -Ventas en Europa, también en millones, lo que ayuda a entender la recepción del juego en el mercado europeo.
-
-9. **JP_Sales**: 
-    -Ventas en Japón, expresadas en millones, ofreciendo una perspectiva sobre el impacto en este influyente mercado.
-
-10. **Other_Sales**: 
-    -Ventas en el resto del mundo (en millones), completando la información sobre el rendimiento global del juego.
-
-11. **Global_Sales**: 
-    -Ventas totales del videojuego a nivel mundial, permitiendo un análisis general del éxito comercial del título.
-
-# Analisis EDA
-
-
-
-
-
-
-
+Este análisis proporcionará información valiosa sobre la evolución del mercado de videojuegos y las preferencias de los jugadores, ofreciendo una base sólida para futuras decisiones en el desarrollo y marketing de videojuegos.
