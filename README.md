@@ -1,7 +1,7 @@
 ## DatasetKaggle
 
 <div align="center">
-  <img src="https://colombia.unir.net/wp-content/uploads/sites/4/2015/04/videojuegos_1920x1080.jpg" alt="Texto alternativo" width="100%"/>
+  <img src="[https://colombia.unir.net/wp-content/uploads/sites/4/2015/04/videojuegos_1920x1080.jpg](https://www.algoritmolegal.com/wp-content/uploads/2022/01/Guia-legal-de-los-videojuegos.jpg)" alt="Texto alternativo" width="100%"/>
 </div>
 
 # Sobre este Dataset
