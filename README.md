@@ -24,31 +24,31 @@ Cada entrada en el conjunto de datos de videojuegos incluye el ranking de ventas
 2. **Nombre**:
     -El título del videojuego, esencial para su identificación y referencia.
 
-3.**Plataforma**: 
+3. **Plataforma**: 
     -La plataforma en la que se lanzó el juego (por ejemplo, PC, PS4, Xbox, etc.), útil para comparar el rendimiento entre diferentes sistemas.
 
-4.**Año**: 
+4. **Año**: 
     -El año en que se lanzó el juego, lo que permite analizar tendencias de ventas a lo largo del tiempo.
 
-5.**Género**: 
+5. **Género**: 
     -La categoría del videojuego (como acción, aventura, RPG, deportes, etc.), facilitando estudios sobre la popularidad de diferentes géneros.
 
-6.**Editor**: 
+6. **Editor**: 
     -La compañía que publicó el videojuego, ofreciendo información sobre el impacto de diferentes editores en el éxito comercial.
 
-7.**NA_Sales**: 
+7. **NA_Sales**: 
     -Ventas del videojuego en América del Norte, expresadas en millones de copias. Proporciona datos sobre el rendimiento en este importante mercado.
 
-8.**EU_Sales**: 
+8. **EU_Sales**: 
     -Ventas en Europa, también en millones, lo que ayuda a entender la recepción del juego en el mercado europeo.
 
-9.**JP_Sales**: 
+9. **JP_Sales**: 
     -Ventas en Japón, expresadas en millones, ofreciendo una perspectiva sobre el impacto en este influyente mercado.
 
-10.**Other_Sales**: 
+10. **Other_Sales**: 
     -Ventas en el resto del mundo (en millones), completando la información sobre el rendimiento global del juego.
 
-11.**Global_Sales**: 
+11. **Global_Sales**: 
     -Ventas totales del videojuego a nivel mundial, permitiendo un análisis general del éxito comercial del título.
 
 # Analisis EDA
