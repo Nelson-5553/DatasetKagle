@@ -28,6 +28,23 @@ Cada entrada en el conjunto de datos de videojuegos incluye el ranking de ventas
 10. **Other_Sales**: Ventas en el resto del mundo (millones).
 11. **Global_Sales**: Ventas totales a nivel mundial.
 
+<table>
+  <tr>
+  <td>Ranking</td>
+  <td>Nombre</td>
+  <td>Plataforma</td>
+  <td>Año</td>
+  <td>Género</td>
+  <td>Editor</td>
+  <td>NA_Sales</td>
+  <td>EU_Sales</td>
+  <td>JP_Sales</td>
+  <td>Other_Sales</td>
+  <td>Global_Sales</td>
+</tr>
+
+</table>
+
 # Objetivos del Análisis del Dataset
 
 1. **Identificar Tendencias de Ventas por Año**: Analizar cómo han cambiado las ventas de videojuegos a lo largo de los años.
