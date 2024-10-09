@@ -28,7 +28,7 @@ Cada entrada en el conjunto de datos de videojuegos incluye el ranking de ventas
 10. **Other_Sales**: Ventas en el resto del mundo (millones).
 11. **Global_Sales**: Ventas totales a nivel mundial.
 
-#Valores de Muestra
+# Valores de Muestra
 
 <table>
     <thead>
